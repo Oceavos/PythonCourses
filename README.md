@@ -4,4 +4,4 @@
 
 # This repertory is a Python courses repertory. Upload a txt file from the basics to proceed with the courses.
 
-● It is created after the Korean repertoire is completed.
+- It is created after the Korean repertoire is completed.
