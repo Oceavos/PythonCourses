@@ -6,3 +6,10 @@
 
 - Upload a txt file from the basics to proceed with the courses.
 - It is created after the Korean repertoire is completed.
+
+
+**참조자료**
+
+1. 점프투파이썬 : https://wikidocs.net/book/1
+
+2. Tutorialspoint Python : https://www.tutorialspoint.com/python/
