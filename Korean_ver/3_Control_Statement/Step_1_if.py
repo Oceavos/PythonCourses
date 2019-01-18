@@ -1,10 +1,3 @@
-# This is a H1
-## This is a H2
-### This is a H3
-#### This is a H4
-##### This is a H5
-###### This is a H6
-
 이번에는 제어문인 if문에 대해서 알아보자.
 
 먼저 간단한 예제를 보며 익혀가도록 하자. 예제를 보고 이해하고 응용하는것은 매우 좋은 공부법이다.
