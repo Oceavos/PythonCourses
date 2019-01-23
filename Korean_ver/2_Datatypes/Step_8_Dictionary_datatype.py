@@ -26,7 +26,6 @@ Key는 무조건 문자열 혹은 문자가 오지않아도 된다.
 
 >>> test_3 = {1:2}
 
-
 - 딕셔너리 쌍 추가
 
 >>> me = {'name' : 'SeongJin-Hong'}     # me 라는 딕셔너리에 데이터 추가
@@ -42,8 +41,6 @@ Key는 무조건 문자열 혹은 문자가 오지않아도 된다.
 >>> me
 {'name' : 'SeongJin-Hong'}
 
-
-
 - 딕셔너리 사용
 
 - Key를 이용해서 Value 값을 얻기
@@ -53,6 +50,5 @@ Key는 무조건 문자열 혹은 문자가 오지않아도 된다.
 SeongJin-Hong
 >>> test['Nationality']      # test 딕셔너리에 Nationality 를 Key로 갖는 Value를 반환해달라
 Korea
-
 
 ☆ 딕셔너리를 만들때 똑같은 키가 겹치지 않도록 해야 합니다.
