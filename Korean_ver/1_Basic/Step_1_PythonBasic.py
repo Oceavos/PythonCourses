@@ -41,8 +41,8 @@ Hi, My e-mail address is python123@starter.net
 
 그리고 위에서 사칙연산을 했던 명령어도 파이썬 출력 명령어에 대입하여 사용이 가능하다. 예제를 보며 익혀보자.
 
->>> print(3+4)
-7
+>>> print(4+4)
+8
 >>> print(4-3)
 1
 >>> print(3*4)
