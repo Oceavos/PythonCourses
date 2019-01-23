@@ -18,7 +18,6 @@
 >>> del tuple_test[0]
 TypeError: 'tuple' object does not support item assignment
 
-
 - 튜플의 인덱싱, 슬라이싱
 튜플의 인덱싱과 슬라이싱은 리스트이 인덱싱, 슬라이싱과 매우 흡사하다. 그래도 한번은 실습해보는것이 좋으므로 해보도록 하자.
 
@@ -36,7 +35,6 @@ TypeError: 'tuple' object does not support item assignment
 >>> test[3]
 'World'
 
-
 - 슬라이싱
 >>> test = (1, 2, 3, 4)
 >>> test[1:]
@@ -44,8 +42,6 @@ TypeError: 'tuple' object does not support item assignment
 
 >>> test = (1:3)
 (2, 3)
-
-
 
 - 튜플의 연산
 
