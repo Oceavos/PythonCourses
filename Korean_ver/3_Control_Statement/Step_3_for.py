@@ -42,7 +42,6 @@ while 문에서 continue를 사용해보았을 것이다. 여기 for문에서도
 ...     print("%d OK" % num)           # 위 if문의 조건식이 false 면 출력
 
 continue는 다시말하겠지만 문장을 수행하는 도중 continue를 수행하게되면 다시 for문 처음으로 돌아간다.
-
 자, 이제 for문을 응용하여 구구단 프로그램을 만들어보자.
 
 >>> for a in range(1, 10):          # a 에 1부터 9까지의 값을 입력
