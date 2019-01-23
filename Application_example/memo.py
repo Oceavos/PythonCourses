@@ -39,5 +39,3 @@ wrf = file_write()
 if file_tr == False:
     file_write = input("Insert content : ")
     wrf.write_txt_file(file_write)
-
-
