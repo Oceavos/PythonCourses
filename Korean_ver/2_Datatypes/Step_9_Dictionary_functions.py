@@ -13,7 +13,6 @@ dict_keys(['name', 'gender'])     # dict_keys 란 이름의 객체를 리턴해�
 >>> dic.values()
 dict_values(['SeongJin-Hong', 'male'])        # dict_values 란 이름의 객체를 리턴
 
-
 - Key를 이용한 Value값 얻기 (get)
 
 >>> dic = {'name' : 'SeongJin-Hong', 'gender' : 'male'}
@@ -22,12 +21,10 @@ dict_values(['SeongJin-Hong', 'male'])        # dict_values 란 이름의 객체
 >>> dic.get('gender')
 'male'
 
-
 - 딕셔너리 초기화 (clear)
 >>> dic = {'name' : 'SeongJin-Hong', 'gender' : 'male'}
 >>> dic.clear()         # 딕셔너리 값 초기화
 {}
-
 
 - Key, Value 쌍 얻기 (items)
 >>> dic = {'name' : 'SeongJin-Hong', 'gender' : 'male'}
