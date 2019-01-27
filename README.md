@@ -2,9 +2,3 @@
 
 
 # 파이썬 강좌 레퍼토리입니다.
-
-**참조자료**
-
-1. 점프투파이썬 : https://wikidocs.net/book/1
-
-2. Tutorialspoint Python : https://www.tutorialspoint.com/python/
