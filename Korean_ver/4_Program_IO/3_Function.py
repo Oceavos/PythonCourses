@@ -36,13 +36,10 @@ addition 이라는 함수의 매개변수 a, b에 각각 5를 대입해서 addit
 
 >>> addition(5, 5)
 10
-
 >>> subtraction(10, 5)
 5
-
 >>> multiplication(5, 5)
 25
-
 >>> division(5, 5)
 1.0
 
